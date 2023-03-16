@@ -108,6 +108,9 @@ If you see the message above, then everything is working fine! gratz. You have a
 
 
 #### Check if vote transactions are landing
+* Search your validator's identity on a block explorer to see if votes from your validator are landing.
+* If this is your first time starting a validator, your Identity account needs enough Sol for voting fees.
+* Example: https://solana.fm/address/C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA
 
 ### Helpful Links
 * [Solana Discord](https://discord.gg/ZmYnApcbTj) (validator-support channel)
