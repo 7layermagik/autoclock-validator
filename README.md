@@ -115,7 +115,7 @@ If you see the message above, then everything is working fine! gratz. You have a
 ### Helpful Links
 * [Solana Discord](https://discord.gg/ZmYnApcbTj) (validator-support channel)
 * Jito Discord ***ADD INVITE LINK***
-* [Overclock Discord](https://discord.gg/M8KZh4Waz6) (autoclock channel
+* [Overclock Discord](https://discord.gg/M8KZh4Waz6) (autoclock channel)
 
 ### TODO
 * support different disk configurations
