@@ -26,8 +26,6 @@ https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.
 ```
 ansible-playbook setup.yaml -i hosts.yaml -e id_path=./keys/validator-keypair.json -e vote_path=./keys/vote-account-keypair.json -e region=ny -e cluster=mainnet -e rpc_address=https://api.mainnet-beta.solana.com -e repo_version=v1.14.16-jito
 ```
-* This command can take between 10-20 minutes based on the specs of the machine
-* It takes long because it does everything necessary to start the validator (format disks, checkout the solana repo and build it, download the latest snapshot, etc.)
 
 #### 4) Edit and configure the common main.yaml file 
 * https://github.com/overclock-validator/autoclock-validator/blob/master/roles/common/defaults/main.yaml
