@@ -74,8 +74,12 @@ repo_version: "v1.13.6-jito"
 screen -S sol
 ```
 
-#### 8) Check the status
+### 9) Switch to the ubuntu user with:
+```
+sudo su - ubuntu
+```
 
+#### 8) Check the status
 ```
 source ~/.profile
 solana-validator --ledger /mnt/solana-ledger monitor
