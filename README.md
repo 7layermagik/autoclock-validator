@@ -67,14 +67,14 @@ repo_version: "v1.13.6-jito"
 
 ### PART BELOW NEED TO FIX -- copy pasted part of autoclock-rpc with some monitoring steps
 
-#### 2) SSH into your new server
+#### 6) SSH into your new server
 
-#### 3) Start a screen session
+#### 7) Start a screen session
 ```
 screen -S sol
 ```
 
-#### 10) Check the status
+#### 8) Check the status
 
 ```
 source ~/.profile
@@ -103,7 +103,6 @@ solana catchup --our-localhost
 ```
 
 If you see the message above, then everything is working fine! gratz. You have a new RPC server and you can visit the URL at http://xx.xx.xx.xx:8899/
-
 
 #### Check if vote transactions are landing
 * Search your validator's identity on a block explorer to see if votes from your validator are landing.
