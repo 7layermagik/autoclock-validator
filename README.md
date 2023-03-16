@@ -102,7 +102,7 @@ Ledger location: /mnt/solana-ledger
 solana catchup --our-localhost
 ```
 
-If you see the message above, then everything is working fine! gratz. You have a new RPC server and you can visit the URL at http://xx.xx.xx.xx:8899/
+If you see the message above, then everything is working fine! gratz. You have a new validator server and you can visit the URL at http://xx.xx.xx.xx:8899/
 
 #### Check if vote transactions are landing
 * Search your validator's identity on a block explorer to see if votes from your validator are landing.
