@@ -74,7 +74,7 @@ repo_version: "v1.13.6-jito"
 screen -S sol
 ```
 
-### 9) Switch to the ubuntu user with:
+#### 9) Switch to the ubuntu user with:
 ```
 sudo su - ubuntu
 ```
