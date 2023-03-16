@@ -76,7 +76,7 @@ screen -S sol
 
 #### 9) Switch to the ubuntu user with:
 ```
-sudo su - ubuntu
+sudo su - solana
 ```
 
 #### 8) Check the status
